@@ -11,7 +11,7 @@
 5. https://hacksplaining.com/
 
    
-6. https://blog.securitybreached.org/2023/08/18/bug-bounty-blueprint-a-beginners-guide/
+   
 7. https://github.com/paragonie/awesome-appsec
 8. https://github.com/GrrrDog/awesome-devsecops-russia?tab=readme-ov-file
 9. https://blog.voorivex.team/bug-bounty-roadmap-from-scratch
@@ -19,10 +19,12 @@
 11. https://github.com/brootware/awesome-cyber-security-university
 12. https://github.com/Hack-with-Github/Awesome-Hacking
 
+Баг баунти
+https://blog.securitybreached.org/2023/08/18/bug-bounty-blueprint-a-beginners-guide/
 
+Апи
 
-
-
+https://escape.tech/academy/
 
 
 
