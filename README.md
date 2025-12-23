@@ -26,7 +26,18 @@ https://blog.securitybreached.org/2023/08/18/bug-bounty-blueprint-a-beginners-gu
 
 https://escape.tech/academy/
 
+pentest
+https://github.com/xalgord/Massive-Web-Application-Penetration-Testing-Bug-Bounty-Notes#phase-1--history - Pentration Testing, Beginners To Expert!
+https://www.apisec.ai/apisec-university
+Osint
+https://ohshint.gitbook.io/oh-shint-its-a-blog
 
 
+Cloud 
+https://www.wiz.io/academy
+
+
+
+Promt - https://www.promptingguide.ai/ru/notebooks
 
 
