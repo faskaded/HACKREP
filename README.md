@@ -206,6 +206,7 @@
 | :--- | :--- |
 | [CryptoZombies](https://cryptozombies.io/ru/solidity) | Интерактивная игра для изучения Solidity и смарт-контрактов. |
 | [Alchemy University](https://university.alchemy.com/) | Обучение разработке в экосистеме Web 3.0. |
+| [Roadmap Smart contract Auditor](https://github.com/slowmist/SlowMist-Learning-Roadmap-for-Becoming-a-Smart-Contract-Auditor) | Карта по становлению специалистом по смарт конатрактам |
 
 ---
 
