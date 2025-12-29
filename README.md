@@ -1,129 +1,271 @@
-Якори
+## 📑 Содержание
+- [🚀 Платформы для практики](#-платформы-для-практики)
+- [📚 Фундаментальные знания (База)](#-фундаментальные-знания-база)
+- [💰 Bug Bounty](#-bug-bounty)
+- [🛡️ Application Security (AppSec)](#-application-security-appsec)
+- [♾️ DevSecOps](#-devsecops)
+- [📦 Product Security](#-product-security)
+- [🔌 API Security](#-api-security)
+- [🔍 OSINT](#-osint)
+- [☁️ Cloud Security](#-cloud-security)
+- [🧪 Тестирование на проникновение (Pentest)](#-тестирование-на-проникновение-pentest)
+- [🔐 Криптография](#-криптография)
+- [🦠 Анализ вредоносного ПО (Malware)](#-анализ-вредоносного-по-malware)
+- [🌐 Работа интернета и сетей](#-работа-интернета-и-сетей)
+- [💻 JavaScript & TypeScript](#-javascript--typescript)
+- [⛓️ Web 3.0 & Blockchain](#-web-30--blockchain)
+- [🤖 Prompt Engineering](#-prompt-engineering)
+- [🛠️ Инструменты разработчика (DevTools)](#-инструменты-разработчика-devtools)
+- [🗄️ Базы данных](#-базы-данных)
+- [🌿 Git](#-git)
+- [✅ Тестирование (QA)](#-тестирование-qa)
+
+---
+
+## 🚀 Платформы для практики
+*Интерактивные лаборатории и площадки для отработки навыков взлома и защиты.*
+
+| Ресурс                                                           | Описание                                                                           |
+| :--------------------------------------------------------------- | :--------------------------------------------------------------------------------- |
+| [Hack The Box](https://account.hackthebox.com/)                  | Одна из самых популярных платформ с виртуальными машинами разной сложности.        |
+| [TryHackMe](https://tryhackme.com/)                              | Отличная площадка для новичков с пошаговыми обучающими путями.                     |
+| [PortSwigger Academy](https://portswigger.net/web-security)      | Бесплатное обучение веб-безопасности от создателей Burp Suite.                     |
+| [pwn.college](https://pwn.college/welcome/)                      | Образовательная платформа от ASU для глубокого изучения компьютерной безопасности. |
+| [HackFast](https://hackfa.st/)                                   | Платформа для быстрой практики навыков кибербезопасности.                          |
+| [Cybrary](https://app.cybrary.it/)                               | Огромная библиотека курсов по ИТ и кибербезопасности.                              |
+| [Hacksplaining](https://hacksplaining.com/)                      | Наглядные уроки по основным уязвимостям для разработчиков.                         |
+| [LabEx Cybersecurity](https://labex.io/skilltrees/cybersecurity) | Практические Skilltrees для изучения кибербезопасности в облачной среде.           |
+
+---
+
+## 📚 Фундаментальные знания (База)
+*Теоретическая основа, терминология и общие принципы ИБ.*
+
+| Ресурс | Описание |
+| :--- | :--- |
+| [Cybersecurity Roadmap (RU)](https://cybersecurity-roadmap.ru/#) | Интерактивная дорожная карта специалиста по ИБ на русском языке. |
+| [Азбука хакера (Codeby)](https://codeby.net/threads/azbuka-khakera-klyuchevyye-terminy-i-sokrashcheniya-v-kiberbezopasnosti.84903/) | Ключевые термины и сокращения в мире кибербезопасности. |
+| [План обучения 2025 (Codeby)](https://codeby.net/threads/kiberbezopasnost-s-chego-nachat-v-2025-poshagovyi-plan-obucheniya-ot-junior-do-middle.86460/) | Пошаговый гайд от Junior до Middle специалиста. |
+| [Курсы Selectel](https://selectel.ru/blog/courses/) | Подборка образовательных ресурсов от крупного провайдера. |
+| [Основы ИБ (Habr)](https://habr.com/ru/companies/ua-hosting/articles/354874/) | Вводная статья о базовых концепциях безопасности. |
+| [Что такое фаззинг (Habr)](https://habr.com/ru/companies/ozontech/articles/711428/) | Подробный разбор техники автоматизированного поиска багов. |
+| [Фактчекинг (GlobalFactChecking)](https://globalfactchecking.com/education) | Образовательные материалы по проверке информации. |
+| [Connected Papers](https://www.connectedpapers.com/) | Инструмент для визуального поиска и анализа научных работ. |
+
+---
+
+## 💰 Bug Bounty
+*Ресурсы для тех, кто хочет искать уязвимости за вознаграждение.*
+
+| Ресурс | Описание |
+| :--- | :--- |
+| [HackerOne Guide](https://www.hackerone.com/blog/how-become-successful-bug-bounty-hunter) | Официальное руководство от ведущей платформы Bug Bounty. |
+| [Bug Bounty Blueprint](https://blog.securitybreached.org/2023/08/18/bug-bounty-blueprint-a-beginners-guide/) | Пошаговое руководство для начинающих охотников за багами. |
+| [Roadmap from Scratch](https://blog.voorivex.team/bug-bounty-roadmap-from-scratch) | Дорожная карта Bug Bounty с нуля. |
+| [Полный гайд 2025 (Codeby)](https://codeby.net/threads/bug-bounty-2025-polnyi-gaid-kak-zarabotat-ot-1000-do-10000-v-mesyats-poshagovaya-instruktsiya.88724/) | Инструкция по заработку на поиске уязвимостей. |
+| [Google Dorks for Bug Bounty](https://github.com/TakSec/google-dorks-bug-bounty) | Коллекция поисковых запросов для обнаружения скрытых данных. |
+| [bug-bounty-2025](https://codeby.net/threads/bug-bounty-2025-polnyi-gaid-kak-zarabotat-ot-1000-do-10000-v-mesyats-poshagovaya-instruktsiya.88724/#-chto-takoye-bug-bounty-i-skol-ko-mozhno-zarabotat-v-2025) | Советы по заработку с помощью бб. |
+---
+
+## 🛡️ Application Security (AppSec)
+*Безопасность приложений на всех этапах жизненного цикла.*
+
+| Ресурс | Описание |
+| :--- | :--- |
+| [AppSec Pathway](https://appsecpathway.com/) | Структурированный путь обучения безопасности приложений. |
+| [Cyberpedia: AppSec](https://www.paloaltonetworks.com/cyberpedia/appsec-application-security) | Энциклопедия AppSec от Palo Alto Networks. |
+| [Автоматизация AppSec (Habr)](https://habr.com/ru/companies/tochka/articles/959454/) | Внедрение автоматизированного конвейера безопасности. |
+| [Awesome AppSec](https://github.com/paragonie/awesome-appsec) | Огромный список ресурсов, инструментов и библиотек для AppSec. |
+| [Awesome Infosec](https://github.com/onlurking/awesome-infosec) | Курируемый список инструментов и ресурсов по информационной безопасности. |
+
+---
+
+## ♾️ DevSecOps
+*Интеграция безопасности в процессы разработки и эксплуатации.*
+
+| Ресурс | Описание |
+| :--- | :--- |
+| [Awesome DevSecOps Russia](https://github.com/GrrrDog/awesome-devsecops-russia) | Русскоязычная подборка материалов по DevSecOps. |
+
+---
+
+## 📦 Product Security
+*Обеспечение безопасности конечного продукта.*
+
+| Ресурс | Описание |
+| :--- | :--- |
+| [Awesome Product Security](https://github.com/dagheyman/awesome-product-security) | Ресурсы по обеспечению безопасности продуктов. |
+
+---
+
+## 🔌 API Security
+*Защита программных интерфейсов.*
+
+| Ресурс | Описание |
+| :--- | :--- |
+| [Escape Academy](https://escape.tech/academy/) | Обучение безопасности API и GraphQL. |
+| [APIsec University](https://www.apisec.ai/apisec-university) | Бесплатные курсы по безопасности API. |
+| [Введение в API (Habr)](https://habr.com/ru/articles/890158/) | Глава 1: Введение в API для начинающих. |
+| [Zapier API Guide](https://zapier.com/blog/api/) | Понятное руководство по работе с API. |
+
+---
+
+## 🔍 OSINT
+*Разведка на основе открытых источников.*
+
+| Ресурс | Описание |
+| :--- | :--- |
+| [Oh Shint! Blog](https://ohshint.gitbook.io/oh-shint-its-a-blog) | Полезные материалы и техники OSINT. |
+| [Intro to OSINT](https://freeosint.github.io/pages/training.html?module=intro-to-osint) | Бесплатный вводный курс по OSINT. |
+
+---
+
+## ☁️ Cloud Security
+*Безопасность облачных инфраструктур.*
+
+| Ресурс | Описание |
+| :--- | :--- |
+| [Wiz Academy](https://www.wiz.io/academy) | Обучение облачной безопасности от лидеров рынка. |
+
+---
+
+## 🧪 Тестирование на проникновение (Pentest)
+*Методологии и заметки по проведению пентестов.*
+
+| Ресурс | Описание |
+| :--- | :--- |
+| [HackTricks Wiki](https://book.hacktricks.wiki/uk/index.html) | Библия пентестера с описанием сотен техник взлома. |
+| [Pentest Everything](https://viperone.gitbook.io/pentest-everything) | Огромная база знаний по тестированию на проникновение. |
+| [TCM Security Academy](https://academy.tcm-sec.com/p/learn-penetration-testing-free) | Бесплатные курсы по этичному хакингу. |
+| [Massive Pentest Notes](https://github.com/xalgord/Massive-Web-Application-Penetration-Testing-Bug-Bounty-Notes) | Обширные заметки по веб-пентесту и Bug Bounty. |
+| [Стандарты анализа (DDoS-Guard)](https://ddos-guard.ru/blog/mezhdunarodnie-standarti-analiza-zashchishchennosti) | Обзор международных стандартов безопасности. |
+| [Awesome Hacking](https://github.com/Hack-with-Github/Awesome-Hacking) | Коллекция инструментов и ресурсов для хакинга. |
+| [Awesome Cyber Security University](https://github.com/brootware/awesome-cyber-security-university) | Путь обучения кибербезопасности университетского уровня. |
+
+---
+
+## 🔐 Криптография
+*Наука о шифровании и защите данных.*
+
+| Ресурс | Описание |
+| :--- | :--- |
+| [CryptoHack](https://cryptohack.org/courses/modular/course_details/) | Интерактивная платформа для изучения криптографии через решение задач. |
+| [Crypto 101](https://www.crypto101.io/) | Бесплатный курс по криптографии для программистов. |
+| [Основы криптографии (Habr)](https://habr.com/ru/companies/infotecs_official/articles/761008/) | Базовые понятия криптографии от InfoTeCS. |
+
+---
+
+## 🦠 Анализ вредоносного ПО (Malware)
+*Изучение вирусов и реверс-инжиниринг.*
+
+| Ресурс | Описание |
+| :--- | :--- |
+| [Crow.rip](https://www.crow.rip/) | Ресурс, посвященный анализу малвари и реверсу. |
+
+---
+
+## 🌐 Работа интернета и сетей
+*Как устроена глобальная сеть.*
+
+| Ресурс | Описание |
+| :--- | :--- |
+| [Explain That Stuff: Internet](https://www.explainthatstuff.com/internet.html) | Простое объяснение того, как работает интернет. |
+| [High Performance Browser Networking](https://hpbn.co/) | Глубокое погружение в сетевые протоколы и производительность. |
+| [Учебник по HTTP](https://coderlessons.com/tutorials/veb-razrabotka/vyuchit-http/uchebnik-po-http) | Подробное руководство по протоколу HTTP. |
+
+---
+
+## 💻 JavaScript & TypeScript
+*Разработка на самом популярном языке веба.*
+
+| Ресурс | Описание |
+| :--- | :--- |
+| [Learn JavaScript](https://learn.javascript.ru/coding-style) | Современный учебник JS, раздел про стиль кода. |
+| [JavaScript Algorithms](https://github.com/TheAlgorithms/JavaScript) | Реализация популярных алгоритмов на JS. |
+| [Clean Architecture](https://blog.cleancoder.com/uncle-bob/2012/08/13/the-clean-architecture.html) | Статья Дядюшки Боба о чистой архитектуре. |
+| [JavaScript Airbnb Style](https://github.com/leonidlebedev/javascript-airbnb) | Руководство по стилю кода Airbnb на русском. |
+| [Code Basics: JS](https://code-basics.com/ru/languages/javascript) | Бесплатные уроки по основам программирования на JS. |
+| [JS для хакеров](http://onreader.mdl.ru/JavascriptHackersLearnThink/content/Ch01.html) | Книга о применении JS в контексте безопасности. |
+| [Движок V8 (Habr)](https://habr.com/ru/companies/alfa/articles/915668/) | Внутреннее устройство движка V8 от Google. |
+| [Learn HTML](https://web.dev/learn/html) | Официальное руководство по HTML от Google. |
+| [JS Cheatsheet](https://quickref.me/javascript) | Быстрая шпаргалка по синтаксису JavaScript. |
+| [JS CodeBox](https://www.jscodebox.com/) | Платформа с челленджами для прокачки навыков JS. |
+| [JS Engine Shapes](https://mathiasbynens.be/notes/shapes-ics) | Техническая статья об оптимизации в JS-движках. |
+| [Architecture Notes](https://architecturenotes.co/archive) | Заметки по архитектуре программного обеспечения. |
+| [TypeScript Guide (RU)](https://scriptdev.ru/guide/000/) | Подробное руководство по TypeScript на русском. |
+| [TS Handbook](https://www.typescriptlang.org/docs/handbook/intro.html) | Официальная документация TypeScript. |
+| [Total TypeScript](https://www.totaltypescript.com/) | Продвинутое обучение TypeScript от экспертов. |
+| [Стрелочные функции (Habr)](https://habr.com/ru/companies/selectel/articles/938474/) | Как улучшить код с помощью стрелочных функций. |
+
+---
+
+## ⛓️ Web 3.0 & Blockchain
+*Технологии децентрализованного интернета.*
+
+| Ресурс | Описание |
+| :--- | :--- |
+| [CryptoZombies](https://cryptozombies.io/ru/solidity) | Интерактивная игра для изучения Solidity и смарт-контрактов. |
+| [Alchemy University](https://university.alchemy.com/) | Обучение разработке в экосистеме Web 3.0. |
+
+---
+
+## 🤖 Prompt Engineering
+*Искусство общения с нейросетями.*
+
+| Ресурс | Описание |
+| :--- | :--- |
+| [Prompt Engineering Guide](https://www.promptingguide.ai/ru/notebooks) | Полное руководство по промпт-инжинирингу на русском. |
+
+---
+
+## 🛠️ Инструменты разработчика (DevTools)
+*Мастерство владения инструментами браузера.*
+
+| Ресурс | Описание |
+| :--- | :--- |
+| [DevTools Tips](https://devtoolstips.org/guides/en/understand-devtools/) | Советы и руководства по использованию инструментов разработчика. |
+
+---
+
+## 🗄️ Базы данных
+*Работа с данными и SQL.*
+
+| Ресурс | Описание |
+| :--- | :--- |
+| [Crunchy Data Tutorials](https://www.crunchydata.com/developers/tutorials) | Практические уроки по PostgreSQL. |
+
+---
+
+## 🌿 Git
+*Системы контроля версий.*
+
+| Ресурс | Описание |
+| :--- | :--- |
+| [Git How To (RU)](https://githowto.com/ru/git_basics) | Интерактивный туториал по основам Git на русском. |
+| [Git by Bit](https://gitbybit.com/) | Платформа для изучения Git. |
+
+---
+
+## ✅ Тестирование (QA)
+*Обеспечение качества программного обеспечения.*
+
+| Ресурс | Описание |
+| :--- | :--- |
+| [QA 100 Roadmap](https://mentorpiece.org/100) | Дорожная карта для специалистов по тестированию. |
+| [Mobile Testing Course](https://study.selectel.ru/mobiletesting_course) | Курс по тестированию мобильных приложений от Selectel. |
+
+---
+
+## 🚩 OWASP
+*Стандарты и проекты по безопасности веб-приложений.*
+
+| Ресурс | Описание |
+| :--- | :--- |
+| [OWASP Top Ten](https://owasp.org/www-project-top-ten/) | Список самых критических рисков безопасности веб-приложений. |
+| [OWASP MASVS](https://mas.owasp.org/MASVS/05-MASVS-STORAGE/#controls) | Стандарт безопасности мобильных приложений (хранение данных). |
+| [Hacksplaining Book](https://hacksplaining.com/book) | Книга по безопасности для разработчиков. |
+| [SQL Injection (Habr)](https://habr.com/ru/articles/148151/) | Классическая статья про SQL-инъекции. |
 
 
 
-Ссылки 
-Платформы с практикой
-1. https://hackfa.st/
-2. https://pwn.college/welcome/
-3. https://portswigger.net/web-security
-4. https://app.cybrary.it/
-5. https://hacksplaining.com/
-6. https://tryhackme.com/
-7. https://account.hackthebox.com/
 
-   
-   
-8. https://github.com/paragonie/awesome-appsec
-10. https://blog.voorivex.team/bug-bounty-roadmap-from-scratch
-11. https://labex.io/skilltrees/cybersecurity
-12. https://github.com/brootware/awesome-cyber-security-university
-13. https://github.com/Hack-with-Github/Awesome-Hacking
-
-База 
-https://selectel.ru/blog/courses/
-https://habr.com/ru/companies/ua-hosting/articles/354874/
-https://habr.com/ru/companies/ozontech/articles/711428/ что такое фаззинг
-https://codeby.net/threads/azbuka-khakera-klyuchevyye-terminy-i-sokrashcheniya-v-kiberbezopasnosti.84903/
-https://globalfactchecking.com/education - факт чекинг
-https://codeby.net/threads/kiberbezopasnost-s-chego-nachat-v-2025-poshagovyi-plan-obucheniya-ot-junior-do-middle.86460/
-https://www.connectedpapers.com/ - проверка научных данных и других
-Баг баунти
-https://blog.securitybreached.org/2023/08/18/bug-bounty-blueprint-a-beginners-guide/
-https://www.hackerone.com/blog/how-become-successful-bug-bounty-hunter
-https://blog.voorivex.team/bug-bounty-roadmap-from-scratch
-https://github.com/TakSec/google-dorks-bug-bounty
-https://codeby.net/threads/bug-bounty-2025-polnyi-gaid-kak-zarabotat-ot-1000-do-10000-v-mesyats-poshagovaya-instruktsiya.88724/#-chto-takoye-bug-bounty-i-skol-ko-mozhno-zarabotat-v-2025
-INfosec
-https://github.com/onlurking/awesome-infosec
-
-Appsec
-https://appsecpathway.com/ 
-https://www.paloaltonetworks.com/cyberpedia/appsec-application-security
-https://habr.com/ru/companies/tochka/articles/959454/?erid=2VtzqvE3Z1R  - Внедрение автоматизированного AppSec конвейера за пару дней без смс и регистрации
-devsecops
-https://github.com/GrrrDog/awesome-devsecops-russia?tab=readme-ov-file
-
-Porduct security
-https://github.com/dagheyman/awesome-product-security
-
-Апи
-https://habr.com/ru/articles/890158/ - Глава 1. Введение в API-интерфейсы для самых маленьких
-https://zapier.com/blog/api/ - введение в апи
-https://escape.tech/academy/
-https://globalfactchecking.com/education
-
-pentest
-https://viperone.gitbook.io/pentest-everything
-https://github.com/xalgord/Massive-Web-Application-Penetration-Testing-Bug-Bounty-Notes#phase-1--history - Pentration Testing, Beginners To Expert!
-https://ddos-guard.ru/blog/mezhdunarodnie-standarti-analiza-zashchishchennosti
-https://www.apisec.ai/apisec-university
-https://academy.tcm-sec.com/p/learn-penetration-testing-free
-https://book.hacktricks.wiki/uk/index.html
-
-Osint
-https://ohshint.gitbook.io/oh-shint-its-a-blog
-https://freeosint.github.io/pages/training.html?module=intro-to-osint
-
-Cloud 
-https://www.wiz.io/academy
-
-Owasp
-https://mas.owasp.org/MASVS/05-MASVS-STORAGE/#controls
-https://owasp.org/www-project-top-ten/
-https://hacksplaining.com/book
-https://habr.com/ru/articles/148151/ sql inject
-Promt - https://www.promptingguide.ai/ru/notebooks
-
-Работа интернета 
-https://www.explainthatstuff.com/internet.html
-
-Криптография
-https://cryptohack.org/courses/modular/course_details/
-https://www.crypto101.io/
-https://habr.com/ru/companies/infotecs_official/articles/761008/
-Схемы
-https://cybersecurity-roadmap.ru/#
-
-Малвари
-https://www.crow.rip/
-
-js
-https://blog.cleancoder.com/uncle-bob/2012/08/13/the-clean-architecture.html - чистая архитектура
-https://github.com/TheAlgorithms/JavaScript - алгоритмы жс
-https://learn.javascript.ru/coding-style
-сети с жс https://hpbn.co/ и http
-https://coderlessons.com/tutorials/veb-razrabotka/vyuchit-http/uchebnik-po-http Http
-https://habr.com/ru/companies/selectel/articles/938474/ - Улучшаем JavaScript-код с помощью стрелочных функций
-https://github.com/leonidlebedev/javascript-airbnb - стиль кода
-https://code-basics.com/ru/languages/javascript
-https://university.alchemy.com/ web 3.0
-http://onreader.mdl.ru/JavascriptHackersLearnThink/content/Ch01.html?ysclid=mh0iz3zf4v595790898 - js для хакеров
-https://habr.com/ru/companies/alfa/articles/915668/ внутреняя работа js в движке v8
-https://habr.com/ru/companies/alfa/articles/915668/ backend
-https://web.dev/learn/html - html
-https://quickref.me/javascript  - JavaScript cheatsheet
-https://www.jscodebox.com/ челленджи 
-https://mathiasbynens.be/notes/shapes-ics - про движки жс
-https://architecturenotes.co/archive -архитектура
-Ts
-https://scriptdev.ru/guide/000/
-https://www.typescriptlang.org/docs/handbook/intro.html
-https://www.totaltypescript.com/
-web 3 
-https://cryptozombies.io/ru/solidity
-
-qa 
-https://mentorpiece.org/100
-https://study.selectel.ru/mobiletesting_course - тестирование мобильных приложений
-
-Промты 
-https://www.promptingguide.ai/ru/notebooks
-devtools
-https://devtoolstips.org/guides/en/understand-devtools/
-БД
-https://www.crunchydata.com/developers/tutorials
-
-Git
-https://gitbybit.com/
-https://githowto.com/ru/git_basics
