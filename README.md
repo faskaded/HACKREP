@@ -21,11 +21,13 @@
 13. https://github.com/Hack-with-Github/Awesome-Hacking
 
 База 
+https://selectel.ru/blog/courses/
 https://habr.com/ru/companies/ua-hosting/articles/354874/
 https://habr.com/ru/companies/ozontech/articles/711428/ что такое фаззинг
 https://codeby.net/threads/azbuka-khakera-klyuchevyye-terminy-i-sokrashcheniya-v-kiberbezopasnosti.84903/
 https://globalfactchecking.com/education - факт чекинг
 https://codeby.net/threads/kiberbezopasnost-s-chego-nachat-v-2025-poshagovyi-plan-obucheniya-ot-junior-do-middle.86460/
+https://www.connectedpapers.com/ - проверка научных данных и других
 Баг баунти
 https://blog.securitybreached.org/2023/08/18/bug-bounty-blueprint-a-beginners-guide/
 https://www.hackerone.com/blog/how-become-successful-bug-bounty-hunter
@@ -36,6 +38,7 @@ INfosec
 https://github.com/onlurking/awesome-infosec
 
 Appsec
+https://appsecpathway.com/ 
 https://www.paloaltonetworks.com/cyberpedia/appsec-application-security
 https://habr.com/ru/companies/tochka/articles/959454/?erid=2VtzqvE3Z1R  - Внедрение автоматизированного AppSec конвейера за пару дней без смс и регистрации
 devsecops
@@ -45,6 +48,8 @@ Porduct security
 https://github.com/dagheyman/awesome-product-security
 
 Апи
+https://habr.com/ru/articles/890158/ - Глава 1. Введение в API-интерфейсы для самых маленьких
+https://zapier.com/blog/api/ - введение в апи
 https://escape.tech/academy/
 https://globalfactchecking.com/education
 
@@ -82,3 +87,43 @@ https://cybersecurity-roadmap.ru/#
 
 Малвари
 https://www.crow.rip/
+
+js
+https://blog.cleancoder.com/uncle-bob/2012/08/13/the-clean-architecture.html - чистая архитектура
+https://github.com/TheAlgorithms/JavaScript - алгоритмы жс
+https://learn.javascript.ru/coding-style
+сети с жс https://hpbn.co/ и http
+https://coderlessons.com/tutorials/veb-razrabotka/vyuchit-http/uchebnik-po-http Http
+https://habr.com/ru/companies/selectel/articles/938474/ - Улучшаем JavaScript-код с помощью стрелочных функций
+https://github.com/leonidlebedev/javascript-airbnb - стиль кода
+https://code-basics.com/ru/languages/javascript
+https://university.alchemy.com/ web 3.0
+http://onreader.mdl.ru/JavascriptHackersLearnThink/content/Ch01.html?ysclid=mh0iz3zf4v595790898 - js для хакеров
+https://habr.com/ru/companies/alfa/articles/915668/ внутреняя работа js в движке v8
+https://habr.com/ru/companies/alfa/articles/915668/ backend
+https://web.dev/learn/html - html
+https://quickref.me/javascript  - JavaScript cheatsheet
+https://www.jscodebox.com/ челленджи 
+https://mathiasbynens.be/notes/shapes-ics - про движки жс
+https://architecturenotes.co/archive -архитектура
+Ts
+https://scriptdev.ru/guide/000/
+https://www.typescriptlang.org/docs/handbook/intro.html
+https://www.totaltypescript.com/
+web 3 
+https://cryptozombies.io/ru/solidity
+
+qa 
+https://mentorpiece.org/100
+https://study.selectel.ru/mobiletesting_course - тестирование мобильных приложений
+
+Промты 
+https://www.promptingguide.ai/ru/notebooks
+devtools
+https://devtoolstips.org/guides/en/understand-devtools/
+БД
+https://www.crunchydata.com/developers/tutorials
+
+Git
+https://gitbybit.com/
+https://githowto.com/ru/git_basics
