@@ -65,6 +65,8 @@
 | [Полный гайд 2025 (Codeby)](https://codeby.net/threads/bug-bounty-2025-polnyi-gaid-kak-zarabotat-ot-1000-do-10000-v-mesyats-poshagovaya-instruktsiya.88724/) | Инструкция по заработку на поиске уязвимостей. |
 | [Google Dorks for Bug Bounty](https://github.com/TakSec/google-dorks-bug-bounty) | Коллекция поисковых запросов для обнаружения скрытых данных. |
 | [bug-bounty-2025](https://codeby.net/threads/bug-bounty-2025-polnyi-gaid-kak-zarabotat-ot-1000-do-10000-v-mesyats-poshagovaya-instruktsiya.88724/#-chto-takoye-bug-bounty-i-skol-ko-mozhno-zarabotat-v-2025) | Советы по заработку с помощью бб. |
+| [Компани с бб](https://github.com/Lissy93/bug-bounties) | Обширный список компаний с программами бб. |
+| [Инструмент по поиску ББ](https://bbradar.io/) | Инструмент, который ищет программы бб по всему интернету |
 ---
 
 ## 🛡️ Application Security (AppSec)
