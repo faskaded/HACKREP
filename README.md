@@ -220,6 +220,8 @@
 | [WTF Solidity](https://github.com/AmazingAng/WTF-Solidity/blob/main/Languages/en/README.md) | Репозиторий с полным изучением солидити. |
 | [Статьи про web 3](https://www.paradigm.xyz/writing) | Статьи |
 | [speedrunethereum](https://speedrunethereum.com/start) | Челленджи в которых вы поймете всю работы с эфиром, а также создадите кучу проектов. |
+| [Ethereum Smart Contract Best Practices](https://consensysdiligence.github.io/smart-contract-best-practices/) | Лучшие практики по ETH. |
+| [learning web3](https://www.useweb3.xyz/) | Различные материалы по web3. |
 ---
 
 ## 🤖 Prompt Engineering
