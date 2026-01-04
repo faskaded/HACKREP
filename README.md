@@ -183,8 +183,8 @@
 | Ресурс | Описание |
 | :--- | :--- |
 | [Learn JavaScript](https://learn.javascript.ru/coding-style) | Современный учебник JS, раздел про стиль кода. |
+| [You-Dont-Know-JS ](https://github.com/getify/You-Dont-Know-JS/tree/2nd-ed?tab=readme-ov-file) | База по js плюс книга про scope. |
 | [JavaScript Algorithms](https://github.com/TheAlgorithms/JavaScript) | Реализация популярных алгоритмов на JS. |
-| [Clean Architecture](https://blog.cleancoder.com/uncle-bob/2012/08/13/the-clean-architecture.html) | Статья Дядюшки Боба о чистой архитектуре. |
 | [JavaScript Airbnb Style](https://github.com/leonidlebedev/javascript-airbnb) | Руководство по стилю кода Airbnb на русском. |
 | [Code Basics: JS](https://code-basics.com/ru/languages/javascript) | Бесплатные уроки по основам программирования на JS. |
 | [JS для хакеров](http://onreader.mdl.ru/JavascriptHackersLearnThink/content/Ch01.html) | Книга о применении JS в контексте безопасности. |
@@ -193,15 +193,18 @@
 | [JS Cheatsheet](https://quickref.me/javascript) | Быстрая шпаргалка по синтаксису JavaScript. |
 | [JS CodeBox](https://www.jscodebox.com/) | Платформа с челленджами для прокачки навыков JS. |
 | [JS Engine Shapes](https://mathiasbynens.be/notes/shapes-ics) | Техническая статья об оптимизации в JS-движках. |
-| [Architecture Notes](https://architecturenotes.co/archive) | Заметки по архитектуре программного обеспечения. |
+| [Стрелочные функции (Habr)](https://habr.com/ru/companies/selectel/articles/938474/) | Как улучшить код с помощью стрелочных функций. |
+| <h3>TypeScript </h3>| |
 | [TypeScript Guide (RU)](https://scriptdev.ru/guide/000/) | Подробное руководство по TypeScript на русском. |
 | [TS Handbook](https://www.typescriptlang.org/docs/handbook/intro.html) | Официальная документация TypeScript. |
-| [Total TypeScript](https://www.totaltypescript.com/) | Продвинутое обучение TypeScript от экспертов. |
-| [Стрелочные функции (Habr)](https://habr.com/ru/companies/selectel/articles/938474/) | Как улучшить код с помощью стрелочных функций. |
-| <h1>TypeScript </h1>| |
 | [TypeScript Deep Dive](https://basarat.gitbook.io/typescript/) | Вводный курс в typescript |
 | [Изучение typescript (Habr)](https://habr.com/ru/articles/663964/) | Изучение typescript по частям. |
+| [Total TypeScript](https://www.totaltypescript.com/) | Продвинутое обучение TypeScript от экспертов. |
+| <h3>Node js</h3>| |
 | [Node.js](https://github.com/goldbergyoni/nodebestpractices/blob/master/README.russian.md) | Лучшие практики по node.js. |
+| <h3>Архитектура</h3>| |
+| [Clean Architecture](https://blog.cleancoder.com/uncle-bob/2012/08/13/the-clean-architecture.html) | Статья Дядюшки Боба о чистой архитектуре. |
+| [Architecture Notes](https://architecturenotes.co/archive) | Заметки по архитектуре программного обеспечения. |
 
 ---
 
@@ -213,7 +216,10 @@
 | [CryptoZombies](https://cryptozombies.io/ru/solidity) | Интерактивная игра для изучения Solidity и смарт-контрактов. |
 | [Alchemy University](https://university.alchemy.com/) | Обучение разработке в экосистеме Web 3.0. |
 | [Roadmap Smart contract Auditor](https://github.com/slowmist/SlowMist-Learning-Roadmap-for-Becoming-a-Smart-Contract-Auditor) | Карта по становлению специалистом по смарт конатрактам |
-
+| [Игра по изучению смарт контрактов](https://nodeguardians.io/) | Практика смартов. |
+| [WTF Solidity](https://github.com/AmazingAng/WTF-Solidity/blob/main/Languages/en/README.md) | Репозиторий с полным изучением солидити. |
+| [Статьи про web 3](https://www.paradigm.xyz/writing) | Статьи |
+| [speedrunethereum](https://speedrunethereum.com/start) | Челленджи в которых вы поймете всю работы с эфиром, а также создадите кучу проектов. |
 ---
 
 ## 🤖 Prompt Engineering
