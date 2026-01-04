@@ -198,6 +198,10 @@
 | [TS Handbook](https://www.typescriptlang.org/docs/handbook/intro.html) | Официальная документация TypeScript. |
 | [Total TypeScript](https://www.totaltypescript.com/) | Продвинутое обучение TypeScript от экспертов. |
 | [Стрелочные функции (Habr)](https://habr.com/ru/companies/selectel/articles/938474/) | Как улучшить код с помощью стрелочных функций. |
+| <h1>TypeScript </h1>| |
+| [TypeScript Deep Dive](https://basarat.gitbook.io/typescript/) | Вводный курс в typescript |
+| [Изучение typescript (Habr)](https://habr.com/ru/articles/663964/) | Изучение typescript по частям. |
+| [Node.js](https://github.com/goldbergyoni/nodebestpractices/blob/master/README.russian.md) | Лучшие практики по node.js. |
 
 ---
 
